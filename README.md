@@ -38,4 +38,6 @@ This Power BI dashboard provides insights into HR data, focusing on key metrics 
 ---
 
 ## 🔗 File
-- `HR_Analytics_Dashboard.pbix` – Open in Power BI Desktop
+
+- [Download HR_Analytics_Dashboard.pbix](HR_Analytics_Dashboard.pbix)
+

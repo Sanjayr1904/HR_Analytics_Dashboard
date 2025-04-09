@@ -1,44 +1,52 @@
-# HR Analytics Dashboard – Power BI
+# 📊 HR Analytics Dashboard – Power BI Project
 
-## 📊 Overview
-This Power BI dashboard provides insights into HR data, focusing on key metrics like attrition, gender ratio, department performance, and salary analysis. The goal is to help HR managers make data-driven decisions.
-
----
-
-## 🛠 Tools Used
-- Power BI
-- Excel (Data source)
-- DAX (for calculated columns and KPIs)
+## 📌 Overview
+This Power BI dashboard provides insightful HR analytics to help organizations monitor employee attrition, performance, and diversity across departments and roles. It empowers HR managers to make data-driven decisions.
 
 ---
 
-## 📂 Dataset Features
-- Employee ID
-- Gender
-- Age
-- Department
-- Job Role
-- Salary
-- Attrition
-- Performance Rating
+## 🧠 Problem Statement
+Organizations often struggle to identify key reasons behind employee attrition and engagement levels. This dashboard helps HR teams monitor patterns and take preventive actions using visual analysis.
 
 ---
 
-## 📈 Dashboard Features
-- Employee headcount & gender distribution
-- Attrition analysis by department
-- Salary vs. performance trends
-- Filters by location, job role, and department
+## 🔄 Data Source
+- Sample HR data from Kaggle / provided during training
+- Contains fields like age, job role, department, attrition status, education, monthly income, etc.
 
 ---
 
-## 📷 Screenshots
-![Dashboard View](hr_dashboard.png)
+## 🔍 Features
+
+- 📉 **Attrition Analysis** – By department, gender, education
+- 🏢 **Department Distribution** – Visual breakdown of employees per department
+- 💼 **Job Role vs. Income** – Comparison of monthly income across roles
+- 📊 **Interactive Filters** – Gender, Education Field, Job Role
 
 ---
 
-## 📁 Project File
+## 🛠️ Tools Used
 
-- [📥 Download HR_Analytics_Dashboard.pbix](https://github.com/Sanjayr1904/hr-analytics-dashboard/raw/main/HR_Analytics_Dashboard.pbix)
+- Power BI Desktop
+- Power Query for transformation
+- DAX (Data Analysis Expressions)
 
+---
 
+## 📷 Dashboard Preview
+
+![HR Dashboard](HR_Analytics_Dashboard.png)
+
+---
+
+## 📁 Download File
+
+- [📥 HR_Analytics_Dashboard.pbix](https://github.com/Sanjayr1904/hr-analytics-dashboard/raw/main/HR_Analytics_Dashboard.pbix)
+
+---
+
+## 📚 Learnings
+
+- Built dynamic visuals using DAX measures
+- Practiced Power Query transformation logic
+- Learned how to tell a story with interactive visuals

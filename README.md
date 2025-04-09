@@ -33,7 +33,7 @@ This Power BI dashboard provides insights into HR data, focusing on key metrics 
 ---
 
 ## 📷 Screenshots
-![Dashboard View](dashboard_view.png)
+![Dashboard View](Screenshot.png)
 
 ---
 

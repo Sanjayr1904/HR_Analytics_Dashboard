@@ -35,7 +35,7 @@ Organizations often struggle to identify key reasons behind employee attrition a
 
 ## 📷 Dashboard Preview
 
-![HR Dashboard](HR_Analytics_Dashboard.png)
+![HR Dashboard](hr_dashboard.png)
 
 ---
 
